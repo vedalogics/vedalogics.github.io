@@ -1,1 +1,1 @@
-# vedalogic.github.io
+# vedalogics.github.io
