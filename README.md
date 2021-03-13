@@ -1,4 +1,4 @@
-# vedalogics.github.io
+# vedalogic.github.io
 
 
 
